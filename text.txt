@@ -1,2 +1,5 @@
 1.https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/products.json
 2.https://dummyjson.com/products
+3.https://api.escuelajs.co/api/v1/products
+4.https://fakestoreapi.com/products
+5.https://fakestoreapi.com/users
