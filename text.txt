@@ -3,3 +3,4 @@
 3.https://api.escuelajs.co/api/v1/products
 4.https://fakestoreapi.com/products
 5.https://fakestoreapi.com/users
+6.https://dragonball-api.com/api/characters
