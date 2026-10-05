@@ -4,3 +4,4 @@
 4.https://fakestoreapi.com/products
 5.https://fakestoreapi.com/users
 6.https://dragonball-api.com/api/characters
+7.https://official-joke-api.appspot.com/random_joke
